@@ -3,8 +3,7 @@
 # hello_microverse_project
 
 > Description : 
-                This is a very simple project of my second day at microverse where
-                i need to add linters and simple git and github works!
+                A simple project to test linters to project and to practice basic Git and Github best practices.
 
 
 ## Built With
@@ -15,9 +14,11 @@
 
 ## Authors
 
-👤 **Author1**
+👤 **ABDUL ALI**
 
 - GitHub: [@ABDULALI3468](https://github.com/ABDULALI3468)
+- Twitter: [@mrabdul_ali](https://twitter.com/mrabdul_ali)
+- LinkedIn: [ABDUL ALI](https://www.linkedin.com/in/abdul-ali-5400bb216/)
 
 
 ## 🤝 Contributing
